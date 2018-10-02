@@ -1,0 +1,13 @@
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\bin\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.deps.json
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\bin\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.dll
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\bin\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.pdb
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\bin\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.xml
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\obj\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.csprojAssemblyReference.cache
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\obj\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.Resources.resources
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\obj\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.csproj.GenerateResource.cache
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\obj\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.csproj.CoreCompileInputs.cache
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\obj\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.AssemblyInfoInputs.cache
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\obj\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.AssemblyInfo.cs
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\obj\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.dll
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\obj\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.xml
+d:\Code\GitHub\skysync-sdk\Connectors\OneDrive\src\PortalArchitects.Connectors.OneDrive\obj\Debug\netstandard2.0\PortalArchitects.Connectors.OneDrive.pdb

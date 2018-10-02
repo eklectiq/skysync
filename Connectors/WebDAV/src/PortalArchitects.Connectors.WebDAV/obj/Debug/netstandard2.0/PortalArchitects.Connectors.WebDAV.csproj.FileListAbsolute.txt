@@ -1,0 +1,11 @@
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\bin\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.deps.json
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\bin\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.dll
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\bin\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.pdb
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\bin\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.xml
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\obj\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.csprojAssemblyReference.cache
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\obj\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.csproj.CoreCompileInputs.cache
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\obj\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.AssemblyInfoInputs.cache
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\obj\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.AssemblyInfo.cs
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\obj\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.dll
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\obj\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.xml
+d:\Code\GitHub\skysync-sdk\Connectors\WebDAV\src\PortalArchitects.Connectors.WebDAV\obj\Debug\netstandard2.0\PortalArchitects.Connectors.WebDAV.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>PortalArchitects.Connectors.WebDAV</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="**\*.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="PortalArchitects.Connectors.Primitives" Version="$(skysync-sdk)" />
+    <PackageReference Include="PortalArchitects.Net.Authorization.Prompt" Version="$(skysync-sdk)" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp2.1;net462</TargetFrameworks>
+    <TargetFrameworks Condition=" '$(OS)' != 'Windows_NT' ">netcoreapp2.1</TargetFrameworks>
+    <RootNamespace>PortalArchitects.Connectors.OneDrive</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\PortalArchitects.Connectors.OneDrive\PortalArchitects.Connectors.OneDrive.csproj" />
+    <PackageReference Include="PortalArchitects.Connectors.TestFramework" Version="$(skysync-sdk)" />
+  </ItemGroup>
+</Project>

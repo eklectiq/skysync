@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{29326250-A690-456E-BFC9-5041BBDC0AFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{1FF025C8-8C34-4F4E-8565-BFC3458AF7A8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\NuGet.Config = ..\..\NuGet.Config
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSSkySync", "src\PSSkySync\PSSkySync.csproj", "{D8366887-65B1-4735-82D4-B70400FEA39A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8366887-65B1-4735-82D4-B70400FEA39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8366887-65B1-4735-82D4-B70400FEA39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8366887-65B1-4735-82D4-B70400FEA39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8366887-65B1-4735-82D4-B70400FEA39A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8366887-65B1-4735-82D4-B70400FEA39A} = {29326250-A690-456E-BFC9-5041BBDC0AFF}
+	EndGlobalSection
+EndGlobal

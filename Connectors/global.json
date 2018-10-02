@@ -1,0 +1,7 @@
+﻿{
+	"sdk": {
+		"version": "2.1.300",
+		"architecture": "x64",
+		"runtime": "clr"
+	}
+}

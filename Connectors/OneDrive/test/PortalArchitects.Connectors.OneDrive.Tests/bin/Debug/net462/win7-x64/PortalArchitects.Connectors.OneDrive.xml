@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PortalArchitects.Connectors.OneDrive</name>
+    </assembly>
+    <members>
+        <member name="T:PortalArchitects.Connectors.OneDrive.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:PortalArchitects.Connectors.OneDrive.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:PortalArchitects.Connectors.OneDrive.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:PortalArchitects.Connectors.OneDrive.Resources.OneDriveForBusinessEndpointNotFound">
+            <summary>
+              Looks up a localized string similar to Could not discover the correct endpoint for One Drive for Business. Confirm the user has a provisioned and active account then try again..
+            </summary>
+        </member>
+    </members>
+</doc>

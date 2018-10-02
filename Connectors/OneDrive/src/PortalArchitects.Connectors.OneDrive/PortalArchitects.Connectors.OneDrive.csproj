@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>PortalArchitects.Connectors.OneDrive</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>PortalArchitects.Connectors.OneDrive</CustomToolNamespace>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="**\*.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="PortalArchitects.Connectors.Primitives" Version="$(skysync-sdk)" />
+    <PackageReference Include="PortalArchitects.Net.Authorization.OAuth2" Version="$(skysync-sdk)" />
+  </ItemGroup>
+</Project>
